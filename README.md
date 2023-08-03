@@ -50,10 +50,6 @@ Bonus:
 
 ![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
 
-### Links
-
-- Live Site URL: [link](https://kanban-task-management-react-tailwind.vercel.app/)
-
 ### Built with
 
 - [TailwindCSS](https://tailwindcss.com/) - CSS Framework
@@ -61,10 +57,4 @@ Bonus:
 - [React](https://reactjs.org/) - JS library
 - [Redux](https://redux.js.org/) - State management tool
 
-### Useful resources
 
-- [Drag and Drop quick tutorial](https://www.youtube.com/watch?v=u65Y-vqYNAk)
-
-## Author
-
-- LinkedIn - [Hesam DearBoy](https://www.linkedin.com/in/hesam-azizpour-23259b265/)
