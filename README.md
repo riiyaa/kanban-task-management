@@ -1,22 +1,11 @@
 # Frontend Mentor - Kanban task management web app solution
 
-- [this project YouTube video Tutorial](https://www.youtube.com/watch?v=3RWMktZNsJQ&t=1707s)
-
-This is a solution to the [Kanban task management web app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/kanban-task-management-web-app-wgQLt-HlbB). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
-
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Built with](#built-with)
 
-## Overview
-
-### The challenge
+### Overview
 
 Users should be able to:
 
@@ -45,10 +34,6 @@ Expected Behaviour:
 Bonus:
 
 - The tasks can be dragged and dropped to a new column.
-
-### Screenshot
-
-![Screenshot](<./public/screenshots/Screen%20Shot%202023-03-29%20at%201.40.56%20PM%20(2).png>)
 
 ### Built with
 
